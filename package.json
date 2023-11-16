@@ -1,0 +1,30 @@
+{
+  "name": "proliseum",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@volar-plugins/vetur": "^2.0.0",
+    "axios": "^1.6.2",
+    "firebase": "^10.4.0",
+    "mosha-vue-toastify": "^1.0.23",
+    "notiwind": "^2.0.2",
+    "react-chat-engine-pretty": "^0.1.8",
+    "systemjs-webpack-interop": "^2.3.7",
+    "veaury": "^2.3.12",
+    "vercel": "^32.3.0",
+    "vite-plugin-single-spa": "^0.2.0",
+    "volar-service-vetur": "^0.0.13",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.1",
+    "vite": "^4.4.9"
+  }
+}
